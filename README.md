@@ -1,11 +1,16 @@
-# XMW-ROXI-UI
-XMW社区的ui已经114514年没换了，现在看腻了，于是重写
+## XMW-ROXI-UI
+XMW 社区 UI 重制计划
+XMW 社区的 UI 已经 114514 年没换了。
+既然看腻了，那就自己重写一个。😂
+XMW-ROXI-UI（XRU） 是一个基于 JavaScript + CSS 的小码王社区用户脚本，旨在对社区页面进行视觉重制、深色化和交互优化。
+本项目主要通过 Tampermonkey（油猴） 注入样式与功能，不修改小码王服务器端数据。
 
 作者 投手 和 Deepseek
 
-XMW社区主页https://world.xiaomawang.com/w/person/project/all/4168227
+作者xmw社区账号主页 (点这个图片)
+[![ts](https://github.com/user-attachments/assets/74d6b636-b4f6-4338-889b-8467f17e76ac)](https://world.xiaomawang.com/w/person/project/all/4168227)
 
-![JavaScript](https://img.shields.io/badge/language-JavaScript-yellow)
+主语言![JavaScript](https://img.shields.io/badge/language-JavaScript-yellow)  ![CSS](https://img.shields.io/badge/style-CSS-1572B6?logo=css3&logoColor=white)
 
 作品名称XMW-ROXI-UI [XRU]
 
@@ -90,5 +95,10 @@ XMW社区主页https://world.xiaomawang.com/w/person/project/all/4168227
 1.0 （2026/08/10）
 
 初始版本发布
+
+
+
+# <span style="color: #ff6500;">不给投手⭐STAR 的人是~~GAY~~</span>
+
 
 
