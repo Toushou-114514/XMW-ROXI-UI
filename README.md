@@ -1,4 +1,4 @@
-## XMW-ROXI-UI
+## [XRU]XMW-ROXI-UI
 XMW 社区 UI 重制计划
 XMW 社区的 UI 已经 114514 年没换了。
 既然看腻了，那就自己重写一个。😂
